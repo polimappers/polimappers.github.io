@@ -1,0 +1,13 @@
+.row > div {
+    padding: 1em;
+    border-radius: 1em;
+}
+.fullframe {
+    display: flex;
+    flex-direction: column;
+}
+.fullframe > iframe {
+    flexbox-grow: 1;
+    border: 0;
+    overflow: hidden;
+}
