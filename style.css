@@ -11,3 +11,19 @@
     border: 0;
     overflow: hidden;
 }
+
+body {
+	color: #214478;
+	background-color: rgba(64, 144, 20, 0.45); 
+}
+
+a{
+	color: #e65c00;
+}
+
+/*
+color logo:
+orange: 	#ff6600 	255, 102, 0
+blue: 		#214478 	33, 68, 120
+green: 		#409014 	64, 144, 20
+*/
