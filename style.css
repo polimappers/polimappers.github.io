@@ -1,24 +1,34 @@
+.container {
+    padding: 0
+}
+
 .row > div {
     padding: 1em;
     border-radius: 1em;
 }
+
 .fullframe {
     display: flex;
     flex-direction: column;
 }
+
 .fullframe > iframe {
     flexbox-grow: 1;
     border: 0;
     overflow: hidden;
 }
 
-body {
-	color: #214478;
-	background-color: rgba(64, 144, 20, 0.45); 
+iframe {
+    border: 0
 }
 
-a{
-	color: #e65c00;
+body {
+    color: #214478;
+    background-color: rgba(64, 144, 20, 0.45);
+}
+
+a {
+    color: #e65c00;
 }
 
 /*
