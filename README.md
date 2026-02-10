@@ -1,5 +1,5 @@
 # PoliMappers 
-PoliMappers official website
+PoliMappers official website (European YouthMappers)
 
 https://polimappers.github.io
 
