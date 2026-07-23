@@ -17,7 +17,7 @@
     "@turf/turf": "^7.3.5",
     "alea": "^1.0.1",
     "astro": "^6.3.5",
-    "daisyui": "^5.5.20",
+    "daisyui": "^5.7.0",
     "simplex-noise": "^4.0.3",
     "tailwindcss": "^4.3.0"
   }
