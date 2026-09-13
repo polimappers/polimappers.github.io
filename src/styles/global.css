@@ -1,12 +1,36 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
 
-@plugin "daisyui";
+@plugin "daisyui" {
+  themes: light --default;
+}
+
+/*
+  Generated via https://coolors.co/tailwind/443614
+  TODO: turn into tailwind config colors
+*/
+/* 
+  --color-dark-khaki-50: #f9f5eb;
+  --color-dark-khaki-100: #f4ecd7;
+  --color-dark-khaki-200: #e8d8b0;
+  --color-dark-khaki-300: #ddc588;
+  --color-dark-khaki-400: #d1b161;
+  --color-dark-khaki-500: #c69e39;
+  --color-dark-khaki-600: #9e7e2e;
+  --color-dark-khaki-700: #775f22;
+  --color-dark-khaki-800: #4f3f17;
+  --color-dark-khaki-900: #28200b;
+  --color-dark-khaki-950: #1c1608;
+*/
 
 @plugin "daisyui/theme" {
-  name: "dark";
-  default: false;
-  prefersdark: true;
+  name: "light";
+  default: true;
+  prefersdark: false;
+
+  --color-base-100: #f4ecd7;
+  --color-base-200: #e8d8b0;
+  --color-base-300: #ddc588;
 
   --depth: 0;
   --noise: 0;
