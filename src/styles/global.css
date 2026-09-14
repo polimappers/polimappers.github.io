@@ -6,10 +6,8 @@
 }
 
 /*
-  Generated via https://coolors.co/tailwind/443614
-  TODO: turn into tailwind config colors
-*/
-/* 
+  https://coolors.co/tailwind/443614
+
   --color-dark-khaki-50: #f9f5eb;
   --color-dark-khaki-100: #f4ecd7;
   --color-dark-khaki-200: #e8d8b0;
@@ -23,14 +21,83 @@
   --color-dark-khaki-950: #1c1608;
 */
 
+/*
+  https://coolors.co/tailwind/347e4d
+
+  --color-sea-green-50: #edf8f0;
+  --color-sea-green-100: #dbf0e2;
+  --color-sea-green-200: #b7e1c5;
+  --color-sea-green-300: #92d3a8;
+  --color-sea-green-400: #6ec48b;
+  --color-sea-green-500: #4ab56e;
+  --color-sea-green-600: #3b9158;
+  --color-sea-green-700: #2c6d42;
+  --color-sea-green-800: #1e482c;
+  --color-sea-green-900: #0f2416;
+  --color-sea-green-950: #0a190f;
+*/
+
+/*
+  Color sampled from bg of old polimappers website
+  https://coolors.co/tailwind/a8cc95
+
+  --color-celadon-50: #f1f7ee;
+  --color-celadon-100: #e3eedd;
+  --color-celadon-200: #c7deba;
+  --color-celadon-300: #aacd98;
+  --color-celadon-400: #8ebd75;
+  --color-celadon-500: #72ac53;
+  --color-celadon-600: #5b8a42;
+  --color-celadon-700: #446732;
+  --color-celadon-800: #2e4521;
+  --color-celadon-900: #172211;
+  --color-celadon-950: #10180c;
+*/
+
 @plugin "daisyui/theme" {
   name: "light";
   default: true;
   prefersdark: false;
+  color-scheme: "light";
 
-  --color-base-100: #f4ecd7;
-  --color-base-200: #e8d8b0;
-  --color-base-300: #ddc588;
+  /* from scale color-sea-green */
+  --color-base-100: #dbf0e2;
+  --color-base-200: #b7e1c5;
+  --color-base-300: #92d3a8;
+  --color-base-content: #0f2416;
+
+  --color-primary: #347e4d;
+  --color-primary-content: oklch(96% 0.003 264.542); /* gray-100 */
+
+  --color-secondary: #7d3533; /* complementary to primary */
+  --color-secondary-content: oklch(96% 0.003 264.542); /* gray-100 */
+
+  --color-accent: oklch(77% 0.152 181.912); /* TODO */
+  --color-accent-content: oklch(38% 0.063 188.416);
+
+  --color-neutral: oklch(14% 0.005 285.823); /* TODO */
+  --color-neutral-content: oklch(92% 0.004 286.32);
+
+  --color-info: oklch(74% 0.16 232.661);
+  --color-info-content: oklch(29% 0.066 243.157);
+
+  --color-success: oklch(76% 0.177 163.223);
+  --color-success-content: oklch(37% 0.077 168.94);
+
+  --color-warning: oklch(82% 0.189 84.429);
+  --color-warning-content: oklch(41% 0.112 45.904);
+
+  --color-error: oklch(71% 0.194 13.428);
+  --color-error-content: oklch(27% 0.105 12.094);
+
+  --radius-selector: 2rem;
+  --radius-field: 0.5rem;
+  --radius-box: 1rem;
+
+  --size-selector: 0.25rem;
+  --size-field: 0.25rem;
+
+  --border: 2px;
 
   --depth: 0;
   --noise: 0;
