@@ -27,23 +27,19 @@ const links = [
 ];
 ---
 
-<footer
-  class="footer footer-horizontal bg-neutral text-neutral-content py-8 px-12"
->
+<footer class="footer sm:footer-horizontal bg-neutral text-neutral-content py-8 px-12">
   <aside>
     <Image src={logoImg} width={192} alt="PoliMappers Logo" />
   </aside>
 
   <nav>
     <h6 class="footer-title">Links</h6>
-    <div class="grid grid-flow-col gap-4">
-      {
-        links.map((link) => (
-          <a href={link.href} target="_blank" rel="noopener noreferrer">
-            {link.name}
-          </a>
-        ))
-      }
+    <div class="grid grid-flow-row grid-cols-3 md:grid-flow-col md:grid-cols-none auto-cols-max gap-4">
+      {links.map((link) => (
+        <a href={link.href} target="_blank" rel="noopener noreferrer">
+          {link.name}
+        </a>
+      ))}
     </div>
   </nav>
 </footer>
