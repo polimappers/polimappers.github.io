@@ -2,9 +2,12 @@
 title: "Como mapping hike"
 description: "Every trail tells a story. Let's map it!"
 pubDate: "2026-09-30"
+heroImage: "../../assets/como_mapping_october26.png"
 ---
 
 Come with us on a mapping hike! This event is designed for both beginners and experienced mappers.
+
+![Promotional poster for Como mapping hike on October 10th, 2026](../../assets/como_mapping_october26.png)
 
 On **October 10th**, PoliMappers is heading to the beautiful city of Como for an exciting day of open mapping, nature, and local culture.
 
