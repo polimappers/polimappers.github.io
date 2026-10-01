@@ -22,12 +22,15 @@ We are leaving from Milan, but you can also join us directly in Como!
 ## The agenda
 
 1. Morning hike
+
 We’ll spend the morning exploring the trails of the Spina Verde Regional Park and hiking up to the iconic Baradello Castle. Get ready for some amazing views of the city and the lake!
 
 2. Lunch break
+
 Bring your own packed lunch (lunch box) to enjoy outdoors, or grab some delicious local foodie options around town.
 
 3. Free afternoon
+
 In the afternoon, you can choose your own adventure:
 
     - Option A: Culture and chill – Visit local museums or explore Como's beautiful sights.
