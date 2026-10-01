@@ -7,8 +7,6 @@ heroImage: "../../assets/como_mapping_october26.png"
 
 Come with us on a mapping hike! This event is designed for both beginners and experienced mappers.
 
-![Promotional poster for Como mapping hike on October 10th, 2026](../../assets/como_mapping_october26.png)
-
 On **October 10th**, PoliMappers is heading to the beautiful city of Como for an exciting day of open mapping, nature, and local culture.
 
 Whether you want to contribute to OpenStreetMap while hike up to a historic castle, or just enjoy a relaxing day by the lake with fellow mappers, this trip has something for everyone!
