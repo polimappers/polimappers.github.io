@@ -15,7 +15,8 @@ Whether you want to contribute to OpenStreetMap while hike up to a historic cast
 
 We are leaving from Milan, but you can also join us directly in Como!
 
-- 7:15 AM -- Milano Porta Garibaldi: Meet us at the [S11](https://www.trenord.it/linee-e-orari/circolazione/le-nostre-linee/como-milano-rho/?code=S11) train platform (just look for the PoliMappers logo!).
+- 7:15 AM -- Milano Porta Garibaldi: Meet us at the [S11](https://www.trenord.it/linee-e-orari/circolazione/le-nostre-linee/como-milano-rho/?code=S11) train platform (specifically train [`25024`](https://api.transitous.org/?itineraryId=CsIBCgNTMTESQDIwMjYxMDEwXzA3OjM5X2l0LUxvbWJhcmRpYS1UcmVub3JkXzEyNTAyNC0yMDI2LTA2LTA1LTIwMjYtMTItMTIaG2l0LUxvbWJhcmRpYS1UcmVub3JkX1MwMTY0NSEn2lVI%2Bb1GQCkN%2BPwwQmAiQDIbaXQtTG9tYmFyZGlhLVRyZW5vcmRfUzAxMzA3OavnpPeN50ZAQSXSNv5EJSJASPSep9YGUMC7p9YGWg1SRUdJT05BTF9SQUlMYAE%3D)) (just look for the PoliMappers logo!).
+- 7:39 AM -- Train departure.
 - 8:45 AM -- Como San Giovanni Station: Meet-up at the main entrance for those arriving separately.
 - 9:15 AM -- Chiesa di San Rocco: Final gathering spot before we start our hike (Via Regina Teodolinda 50, check out the location on OpenStreetMap: https://osm.org/go/0CkuLB~hp?m=&way=370716646).
 
