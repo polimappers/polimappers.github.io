@@ -1,6 +1,6 @@
 ---
 title: "Introduction to OpenStreetMap"
-description: "Lear what OpenStreetMap is, what you can do with it, and make your first contribution."
+description: "Learn what OpenStreetMap is, what you can do with it, and make your first contribution."
 pubDate: "2026-11-8"
 
 // TODO: add heroImage
@@ -8,7 +8,7 @@ pubDate: "2026-11-8"
 
 [OpenStreetMap](https://www.openstreetmap.org/) (OSM) is a collaborative, open-access geographic database of the world, built and maintained by a global community of volunteers. Often described as the "_Wikipedia of maps_", OSM provides the foundational geospatial data powering navigation apps, humanitarian response efforts, academic research, and urban planning worldwide.
 
-This introductory course teaches you how the OpenStreetMap ecosystem functions, how its core data model is structured, and how to effectively map real-world features using standard editing tools.
+This introductory, single lecture, course will teach you how the OpenStreetMap ecosystem functions, how its core data model is structured, and how to effectively map real-world features using standard editing tools.
 
 During the course we will also demonstrate how to work with [iD](https://wiki.openstreetmap.org/wiki/ID), one of the most popular editors of OSM. If you want to follow along, you can do so by creating an OpenStreetMap account at the following link: https://www.openstreetmap.org/user/new.
 
