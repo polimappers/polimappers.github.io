@@ -2,8 +2,7 @@
 title: "Introduction to OpenStreetMap"
 description: "Learn what OpenStreetMap is, what you can do with it, and make your first contribution."
 pubDate: "2026-11-8"
-
-// TODO: add heroImage
+heroImage: "../../assets/osm-intro-2026-cover.png"
 ---
 
 [OpenStreetMap](https://www.openstreetmap.org/) (OSM) is a collaborative, open-access geographic database of the world, built and maintained by a global community of volunteers. Often described as the "_Wikipedia of maps_", OSM provides the foundational geospatial data powering navigation apps, humanitarian response efforts, academic research, and urban planning worldwide.
