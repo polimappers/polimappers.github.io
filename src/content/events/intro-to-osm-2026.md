@@ -14,10 +14,14 @@ During the course we will also demonstrate how to work with [iD](https://wiki.op
 
 **The course will be taught in English 🇬🇧**
 
-The recording be also be available on our Youtube Channel: https://www.youtube.com/@polimappers/.
+The recording will also be available on our Youtube Channel: https://www.youtube.com/@polimappers/.
+
+**Everyone is welcome!**
+
+The course is open to everyone, whether you are a Politecnico student or not.
 
 ### When and where
 
 - **Date:** November 16
 - **Time:** 17:15 - 19:15
-- **Location:** `room_to_be_decided`
+- **Location:** Fassò Classroom, First floor of Building 4A - Politecnico di Milano Leonardo Campus (Check it on the [map](https://osm.org/go/0CjGVBbSj?m=)!, [more details](https://www.dica.polimi.it/wp-content/uploads/2023/10/DICA_aula_Fasso.pdf))
