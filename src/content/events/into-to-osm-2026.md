@@ -9,7 +9,9 @@ heroImage: "../../assets/osm-intro-2026-cover.png"
 
 This introductory, single lecture, course will teach you how the OpenStreetMap ecosystem functions, how its core data model is structured, and how to effectively map real-world features using standard editing tools.
 
-During the course we will also demonstrate how to work with [iD](https://wiki.openstreetmap.org/wiki/ID), one of the most popular editors of OSM. If you want to follow along, you can do so by creating an OpenStreetMap account at the following link: https://www.openstreetmap.org/user/new.
+During the course we will also demonstrate how to work with [iD](https://wiki.openstreetmap.org/wiki/ID), one of the most popular editors of OSM.
+If you want to follow along, you can do so by creating an OpenStreetMap account at the following link: https://www.openstreetmap.org/user/new.
+For your comfort we also suggest you bring a mouse.
 
 **The course will be taught in English 🇬🇧**
 
