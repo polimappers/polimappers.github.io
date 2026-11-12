@@ -11,7 +11,7 @@ This introductory, single lecture, course will teach you how the OpenStreetMap e
 
 During the course we will also demonstrate how to work with [iD](https://wiki.openstreetmap.org/wiki/ID), one of the most popular editors of OSM.
 If you want to follow along, you can do so by creating an OpenStreetMap account at the following link: https://www.openstreetmap.org/user/new.
-For your comfort we also suggest you bring a mouse.
+We also suggest you bring a mouse, for your mapping comfort.
 
 **The course will be taught in English 🇬🇧**
 
